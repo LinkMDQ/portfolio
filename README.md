@@ -1,4 +1,4 @@
 Portfolio personal.
-Cuentas propias:
+Cuentas:
 [LinkMDQ](https://github.com/LinkMDQ)
 [AlumnoMDQ](https://github.com/AlumnoMDQ)
